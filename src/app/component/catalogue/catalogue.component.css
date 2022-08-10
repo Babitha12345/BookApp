@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+.bkg 
+{
+  height: 100%;
+  width: 100%;
+ 
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+.bkghome
+{
+  height: 100%;
+  width: 100%;
+  
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+.bkgcatalogue
+{
+  height: 100%;
+  width: 100%;
+  background-position: center;
+  background-size: cover;
+  position: absolute;
+}
+
+.box
+{box-shadow:
+  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+  0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+  0 12.5px 10px rgba(0, 0, 0, 0.06),
+  0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+  0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+  0 100px 80px rgba(0, 0, 0, 0.12)
+;
+  width:380px;
+  height: 480px;
+  position: relative;
+  margin: 6% auto; 
+  border-radius: 20px;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  color:#f2f2f2;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.button
+{
+margin-bottom: 10px;
+}
+.footcard
+{
+  margin:0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+.body
+{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: 400;
+}
+.footer
+{
+  padding: 40px 0;
+  background-color: rgb(0, 0, 0);
+}
+.icons
+{
+  text-align: center;
+  padding-bottom: 50px;
+}
+.icons a{
+  display: inline-block;
+  padding-top: 30px;
+
+  margin: 0px;
+  width: 200px;
+}
+.list
+{
+  text-align: center;  
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  font-weight: 500;
+  margin: 30px;
+  font-style: normal;
+}
